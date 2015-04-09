@@ -1,4 +1,4 @@
-package com.practice.threads.SynchronizeExercise;
+package com.practice.threads.synchronizeExercise;
 
 public class Print {
 
